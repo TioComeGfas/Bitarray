@@ -1,0 +1,3 @@
+include ':bitarray'
+include ':app'
+rootProject.name = "BitArray"
